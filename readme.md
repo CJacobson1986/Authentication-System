@@ -14,7 +14,7 @@ composer install
 
 From there you should go ahead and generate a Controller `php artisan make:controller AuthController`. Next, you should change the .env.example file name to .env.
 
-To run the server, simply do `artisan` and your development website will be on http://localhost:3000.
+To start the server, simply do `php artisan serve`.
 
 
 ## Commands
